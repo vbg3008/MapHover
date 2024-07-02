@@ -1,1 +1,1 @@
-"# MapHover" 
+# MapHover
